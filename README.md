@@ -1,8 +1,9 @@
-### **Description**
+# Airflow ETL Pipeline with Postgres and API Integration In ASTRO Cloud And AWS
+## **Description**
 
 This project implements a robust ETL (Extract, Transform, Load) pipeline using **Apache Airflow**, orchestrated via **ASTRO Cloud** and deployed across **AWS** infrastructure. It integrates external **APIs** and a **PostgreSQL** database to automate data ingestion, transformation, and storage workflows.
 
-Key features include:
+### Key features include:
 
 * 🚀 **Airflow DAGs** for modular and scalable task orchestration
 * 🌐 **API integration** for real-time and batch data retrieval
